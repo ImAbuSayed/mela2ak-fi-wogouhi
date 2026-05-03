@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في سكون الليل
+> أنتِ النبض اللي يداوي الويل
+> وشوقي لك فاق كل الحدود
+> حبك في قلبي دايماً موجود
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
